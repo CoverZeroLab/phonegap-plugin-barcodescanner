@@ -53,6 +53,7 @@
 								<string key="IBUITitle">Barcode Scanner</string>
 								<object class="IBUIBarButtonItem" key="IBUILeftBarButtonItem" id="1053701234">
 									<string key="IBUITitle">Done</string>
+									<string key="IBUIText">Done</string>
 									<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 									<int key="IBUIStyle">1</int>
 									<reference key="IBUINavigationItem" ref="240626599"/>
